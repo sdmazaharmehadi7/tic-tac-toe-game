@@ -7,10 +7,15 @@ The project focuses purely on game logic implementation without any GUI or web i
 🚀 Features
 
 -->Two-player mode (X and O)
+
 -->Turn-based gameplay
+
 -->Input validation
+
 -->Automatic winner detection
+
 -->Draw condition handling
+
 -->Simple and clean terminal interface
 
 🛠️ Tech Stack
@@ -19,9 +24,13 @@ The project focuses purely on game logic implementation without any GUI or web i
 📚 What I Learned
 
 -->Conditional statements and loops
+
 -->Function implementation
+
 -->List handling
+
 -->Game logic design
+
 -->Error handling and input validation
 
 ▶️ How to Run
